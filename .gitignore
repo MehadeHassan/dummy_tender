@@ -27,9 +27,16 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
+.metadata
+pubspec.lock
 .pub-cache/
 .pub/
 /build/
+/test/
+/android/
+/ios/
+
+
 
 # Web related
 lib/generated_plugin_registrant.dart
